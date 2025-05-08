@@ -1,6 +1,8 @@
 # 🧠 AI-Image-Descriptor
 
 A simple yet powerful web app that uses the BLIP model to generate intelligent captions for images — either uploaded by the user or scraped from any URL. Built with Gradio, Transformers, and Torch.
+🧪 Live Demo
+👉 Try it here: AI Image Captioning App on Hugging Face Spaces
 
 > ✅ Works locally with Python 3.12  
 > ✅ Compatible with CPU and GPU  
