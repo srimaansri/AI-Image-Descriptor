@@ -6,6 +6,9 @@ A simple yet powerful web app that uses the BLIP model to generate intelligent c
 
 👉 Try it here: https://huggingface.co/spaces/layer-rep/Image_Captions
 
+![image](https://github.com/user-attachments/assets/f50c8707-65fd-4be0-9621-873415061356)
+
+
 > ✅ Works locally with Python 3.12  
 > ✅ Compatible with CPU and GPU  
 > ✅ Lightweight and fast — uses `Salesforce/blip-image-captioning-base`  
