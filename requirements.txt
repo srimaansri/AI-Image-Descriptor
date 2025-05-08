@@ -1,0 +1,10 @@
+# Core AI libraries (safe for Python 3.12 + Windows)
+torch==2.2.2
+transformers==4.39.3
+gradio==4.29.0
+numpy==1.26.4
+
+# Supporting libraries
+Pillow==10.2.0
+beautifulsoup4==4.12.3
+requests==2.31.0

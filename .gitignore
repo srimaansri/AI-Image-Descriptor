@@ -1,0 +1,14 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+
+# Gradio session & user data
+.gradio/
+flagged/
+
+# Unused test/demo folders
+Images/
